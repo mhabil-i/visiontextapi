@@ -34,6 +34,8 @@ Perfect for **[Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTub
 - Personality-rich responses to visual content
 - Privacy (images never leave your computer)
 
+[Open-LLM-VTuber Setup](#open-llm-vtuber-configuration)
+
 ## 🎮 Perfect For Open-LLM-VTuber Users
 
 **Scenario 1: Gaming Stream**
@@ -80,13 +82,12 @@ cd visiontextapi
 ### 2. Install Dependencies
 **Windows:**
 ```bash
-scripts/install.bat
+install.bat
 ```
 
 **Manual:**
 ```bash
 pip install -r requirements.txt
-cp config/config_example.py config/config.py
 ```
 
 ### 3. Setup LM Studio
@@ -234,7 +235,7 @@ See `config/models.txt` for a full list of tested models.
 - ✅ Set environment variable: `set OPENROUTER_API_KEY=your-key`
 - ✅ Or edit `config/config.py` directly
 
-## 📡 Open-LLM-VTuber Configuration
+## Open-LLM-VTuber Configuration
 
 For Open-LLM-VTuber users, you can configure the API settings in the `conf.yaml` file. Below is an example configuration snippet:
 
