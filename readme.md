@@ -62,7 +62,7 @@ Perfect for **[Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTub
 ### Recommended Models
 
 **🎭 Text Model (Roleplay):**
-- **[Mistral 7B Instruct](https://openrouter.ai/mistralai/mistral-7b-instruct)** via OpenRouter ⭐ **FREE**
+- **[Llama 3.3 70B Instruct (free)](https://openrouter.ai/meta-llama/llama-3.3-70b-instruct:free)** via OpenRouter ⭐ **FREE**
 - Requires: **[OpenRouter API Key](https://openrouter.ai/settings/keys)** (free signup)
 - Perfect for: Roleplay, creative responses, personality-rich conversations
 
