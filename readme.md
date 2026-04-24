@@ -62,7 +62,7 @@ Perfect for **[Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTub
 ### Recommended Models
 
 **🎭 Text Model (Roleplay):**
-- **[Venice AI (Dolphin Mistral 24B)](https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition:free)** via OpenRouter ⭐ **FREE & UNCENSORED**
+- **[Mistral 7B Instruct](https://openrouter.ai/mistralai/mistral-7b-instruct)** via OpenRouter ⭐ **FREE**
 - Requires: **[OpenRouter API Key](https://openrouter.ai/settings/keys)** (free signup)
 - Perfect for: Roleplay, creative responses, personality-rich conversations
 
